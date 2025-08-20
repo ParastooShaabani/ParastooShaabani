@@ -1,45 +1,45 @@
-<!-- Hero -->
-<h1 align="center">Hey there, I'm Parastoo Shaabani 👋</h1>
-<p align="center">
-  <b>Flutter Developer</b> — Android · iOS · Web (PWA) · Clean Architecture · High‑performance UI
+# Hey there, I'm Parastoo Shaabani 👋  
+**Flutter Developer — Android · iOS · Web (PWA) · Clean Architecture · High-performance UI**
+
+## 🚀 About Me
+Flutter Developer with **4+ years** of experience building high-quality apps across mobile and web.  
+I focus on **clean, testable code**, smooth **user experience**, and **scalable architectures**.
+
+- 🧩 **Architecture:** Clean Architecture · feature-first modular design  
+- 📦 **State Management:** BLoC · Cubit · GetX · Provider  
+- 🔐 **Auth:** OAuth2 / OpenID Connect (PKCE) · SSO  
+- 🧪 **Quality:** Unit · Widget · Integration testing · Mockito  
+- ⚡ **CI/CD:** GitHub Actions · GitLab CI · Codemagic  
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-F7A41D?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-FF6F00?logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-3DDC84?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-5C2D91?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
 </p>
 
-<!-- Quick badges (optional; remove any you don't like) -->
-<p align="center">
-  <a href="mailto:parastooshabani1978@gmail.com"><img src="https://img.shields.io/badge/Email-parastooshabani1978%40gmail.com-blue" /></a>
-  <img src="https://img.shields.io/badge/Location-Shiraz%2C%20Iran-informational" />
-  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture%20%7C%20BLoC%20%7C%20GetX-success" />
-</p>
+## ✨ Featured Experience
+- **Fintech Wallet + Marketplace Super App** — 10+ payment modules, enterprise-grade SSO, token refresh flow.  
+- **Livestock Management App** — Cross-platform operations tracking with optimized API integration.  
+- **Mask Detection (Frontend)** — Real-time camera stream with smooth Flutter UI.
 
-## About Me
-I am a Flutter Developer with 4+ years of experience building high‑quality apps for Android, iOS, and Web (PWA).
-I focus on clean, testable code, smooth UX, and reliable CI/CD.
+## 📌 Highlighted Projects
+- 🔑 **OIDC/PKCE Starter** — End-to-end login, token refresh, logout. [Repo](#)  
+- 🏗️ **GetX Clean Architecture Starter** — Feature-first modules, DI, tests. [Repo](#)  
+- 🔒 **Dio Authorization Interceptor** — Token inject + refresh + retry. [Repo](#)  
+- 📱 **PWA Mobile Width** — Force mobile layout on desktop. [Repo](#)  
+- ⚖️ **BLoC vs GetX Examples** — Same feature, two approaches. [Repo](#)  
+- 💳 **POS MSR Demo** — Platform channels & receipt printing. [Repo](#)  
 
-- 🧩 **Architecture**: Clean Architecture, feature‑first structure
-- 📦 **State**: BLoC, Cubit, GetX, Provider
-- 🔐 **Auth**: OAuth2 / OpenID Connect (PKCE), SSO
-- 🧪 **Quality**: Unit, Widget, Integration tests; Mockito
-- 🚀 **CI/CD**: GitHub Actions, GitLab CI, Codemagic
+## ❤️ What I Care About
+Performance budgeting · smooth animations · accessibility · developer experience
 
-## Tech Stack
-Dart · Flutter · Dio · REST · SQLite · Hive · i18n · Animations · Material & Cupertino · PWA
+---
 
-## Featured Experience / Highlights
-- **Fintech Wallet + Marketplace Super App** — 10+ payment modules, SSO across 2 large apps, token‑based access with refresh flow.
-- **Livestock Management App** — Cross‑platform operations tracking with optimized API integration.
-- **Mask Detection (Frontend)** — Real‑time camera stream in Flutter with responsive, stable UI.
-
-## Pinned Projects (start here)
-- **OIDC/PKCE Starter (Flutter Web + Android/iOS)** — End‑to‑end login, token refresh, logout. <a href="<repo-link>">Repo</a>
-- **GetX Clean Architecture Starter** — Feature‑first modules, DI, tests. <a href="<repo-link>">Repo</a>
-- **Dio Authorization Interceptor** — Token inject + refresh + retry with tests. <a href="<repo-link>">Repo</a>
-- **PWA Mobile Width** — Force mobile layout on desktop. <a href="<repo-link>">Repo</a>
-- **BLoC vs GetX Examples** — Same feature, two approaches + tests. <a href="<repo-link>">Repo</a>
-- **POS MSR Demo (mock device layer)** — Platform channels, timeout handling. <a href="<repo-link>">Repo</a>
-
-## What I care about
-Performance budgeting, smooth animations, accessibility, and great developer experience.
-
-## Contact
-- 📧 Email: parastooshabani1978@gmail.com
-- 📍 Shiraz, Iran
+📧 **Email:** parastooshabani1978@gmail.com  
+📍 **Shiraz, Iran**
