@@ -12,7 +12,7 @@
 </p>
 
 ## About Me
-Flutter Developer with 4+ years of experience building high‑quality apps for Android, iOS, and Web (PWA).
+I am a Flutter Developer with 4+ years of experience building high‑quality apps for Android, iOS, and Web (PWA).
 I focus on clean, testable code, smooth UX, and reliable CI/CD.
 
 - 🧩 **Architecture**: Clean Architecture, feature‑first structure
